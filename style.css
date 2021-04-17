@@ -1,0 +1,22 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+}
+
+.app__content {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+}
+
+.app__title {
+    margin: 0 auto;
+}
+.app__subtitle {
+    margin-top: 100px;
+    margin: 0 auto;
+}
+p {
+    margin: 0 auto;
+}
